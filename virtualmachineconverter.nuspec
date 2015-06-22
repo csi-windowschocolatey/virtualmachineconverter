@@ -23,7 +23,7 @@ CMDLet reference is here: http://download.microsoft.com/download/9/1/E/91E9F42C-
     <tags>Convert VM, VHD, VHDX, VMDK, VMWare</tags>
     <copyright>Microsoft</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/ferventcoder/chocolatey-packages/fd1a5932edc26194500554d026ca35e6c0274b6c/icons/microsoft-sql-server.svg</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/csi-windowschocolatey/virtualmachineconverter/master/appicon.png</iconUrl>
 <!--<dependencies>
       <dependency id="" version="" />
     </dependencies>-->
